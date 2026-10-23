@@ -1,0 +1,9 @@
+fastapi==0.110.0
+uvicorn==0.28.0
+python-multipart==0.0.9
+pydantic==2.6.4
+google-genai==1.0.0
+openai-whisper==20231117
+paddlepaddle==2.6.0
+paddleocr==2.7.3
+edge-tts==6.1.9
